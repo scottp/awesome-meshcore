@@ -253,6 +253,7 @@ or IoT sensor networks.
   - [Boston Mesh](https://bostonme.sh/)
   - [CascadiaMesh](https://cascadiamesh.org) - Pacific Northwest, currently covers British Columbia, Western Washington, and Western Oregon. 
   - [Colorado Mesh](https://coloradomesh.org/)
+  - [Chicagoland Mesh](https://chicagolandmesh.org/)
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
@@ -321,6 +322,7 @@ In addition, there are e.g.:
 #### USA
 - [Boston Mesh Discord](https://discord.gg/MUVASVEEES)
 - [CascadiaMesh Discord](https://discord.gg/m9yarB3p2E)
+- [Chicagoland Mesh Discord](https://chimesh.org/discord)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
