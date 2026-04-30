@@ -37,9 +37,7 @@ or IoT sensor networks.
 
 ## Other Resources
 
-- [MeshCore.co.uk](https://meshcore.co.uk/) - The original homepage
-- [Original Discord](https://discord.gg/ZVH2ujy9ex)
-- [Facebook](https://www.facebook.com/MeshCoreOfficial)
+- [MeshCore Official Facebook Group](https://www.facebook.com/groups/meshcore)
 - [Video: MeshCore Companion Flashing (the comms channel)](https://redirect.invidious.io/watch?v=ems9_XvdPX8) (Also on [youtube](https://youtu.be/ems9_XvdPX8))
 - [Video: Using the official Meshcore App (the comms channel)](https://redirect.invidious.io/watch?v=PeThXmxLE4k) (Also on [youtube](https://youtu.be/PeThXmxLE4k))
 - [LitBomb's Meshcore FAQ](https://github.com/LitBomb/MeshCore-FAQ) (English and German)
@@ -203,7 +201,6 @@ or IoT sensor networks.
   - [Sachsen (mostly Leipzig)](https://mesh-sn.de)
   - [VoyagerMesh Dresden](https://loramesh-dresden.de/)
 - Great Britain
-  - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswich Net](https://ipnt.uk/)
   - [MeshCore Wales](https://meshcore.wales/)
 - Hungary
