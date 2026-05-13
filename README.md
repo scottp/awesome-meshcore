@@ -214,6 +214,8 @@ or IoT sensor networks.
   - [MeshCore Latvia](https://apraide.lv/)
 - Netherlands
   - [Wiki](https://meshwiki.nl/)
+- Norway
+  - [MeshWiki](https://meshwiki.no)
 - Poland
   - [Meshcore Poland](https://lorameshcore.pl/)
 - Portugal
