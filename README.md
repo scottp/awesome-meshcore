@@ -165,6 +165,7 @@ or IoT sensor networks.
 | Project Name | Description | First Commit |
 | :--- | :--- | :---: |
 | [Mesh Citadel](https://github.com/taedryn/mesh-citadel) ![GitHub Repo stars](https://img.shields.io/github/stars/taedryn/mesh-citadel?style=social) | A MeshCore-first BBS, inspired by the Citadel BBSes of the 80s | Sep 25 | 
+| [BinktermPHP](https://github.com/awehttam/binkterm-php) ![GitHub Repo Stars](https://img.shields.io/github/stars/awehttam/binkterm-php?style=social) | A Full Stack Bulletin Board System with Meshcore support | May 2026 |
 
 ## Bots
 
